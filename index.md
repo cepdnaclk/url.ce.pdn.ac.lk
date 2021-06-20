@@ -1,3 +1,9 @@
+---
+layout: default
+title: Short URL Generator
+permalink: /
+---
+
 ## URL Generator
 
 This repository can be used to generate shorten URLs.
