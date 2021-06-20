@@ -1,8 +1,3 @@
----
-layout: default
-permalink: /
-title: Home Page
----
 ## URL Generator
 
 This repository can be used to generate shorten URLs.
