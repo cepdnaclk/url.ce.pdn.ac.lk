@@ -1,0 +1,8 @@
+
+
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      permalink: "index.html"
