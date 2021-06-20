@@ -3,12 +3,11 @@ layout: default
 title: Short URL Generator
 permalink: /
 ---
-
 ## URL Generator
 
-This repository can be used to generate shorten URLs.
+This repository can be used to generate shorten URLs, with prefix "*https://cepdnaclk.github.io/r/*".
 
-You need to create a MD file (*name.md*) in the *./urls/* folder with following details.
+You only need to create a MD file (**name.md**s) in the *./urls/* folder with following details.
 
 ```md   
 layout: redirect
