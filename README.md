@@ -11,16 +11,17 @@ You need to create a MD file (*name.md*) in the *./urls/* folder with following 
 
 ```md   
 layout: redirect
-permalink: /[ short code ]/
-forward_url: [ target URL ]
+permalink: /short_code/
+forward_url: target_url
 ```
 
 Here replace,
-- **[ short code ]** with the short code
-- **[ target URL ]** with the URL you need to redirect the users
+- **short_code** with the short code
+- **target_url** with the URL you need to redirect the users
 
-### Example:
 
+
+#### Example:
 If you need to create a shorten link to [http://www.ce.pdn.ac.lk/undergraduate-courses](http://www.ce.pdn.ac.lk/undergraduate-courses), you need to create a file like following:
 
 <u>/urls/courses.md</u>
