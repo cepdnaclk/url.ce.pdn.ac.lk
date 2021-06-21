@@ -2,7 +2,7 @@
 
 This repository can be used to generate shorten URLs, with prefix "*https://cepdnaclk.github.io/r/*".
 
-You only need to create a MD file (**name.md**) in the **./urls/** folder with following details.
+You only need to create a MD file (**name.md**) in the **./urls/** folder by clicking [here](https://github.com/cepdnaclk/r/new/main/urls) and add the following content.
 
 ```md
 ---
