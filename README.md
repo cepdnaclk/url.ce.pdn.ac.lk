@@ -13,11 +13,11 @@ forward_url: target_url
 ```
 
 Here replace,
-- The "**short_code**" with the short code you wish to use.
-- The "**target_url**" with the URL you need to redirect the users.
+- The "**short_code**" with the *short code* you wish to use.
+- The "**target_url**" with the *URL* you need to redirect the users.
 
 #### Example:
-If you need to create a shorten link to [http://www.ce.pdn.ac.lk/undergraduate-courses](http://www.ce.pdn.ac.lk/undergraduate-courses), you need to create a file like following:
+If you need to create a shortened link to [http://www.ce.pdn.ac.lk/undergraduate-courses](http://www.ce.pdn.ac.lk/undergraduate-courses), you need to create a file like a file like the following:
 
 <u>/urls/courses.md</u>
 ```md
@@ -33,4 +33,4 @@ Then you can use the shorten URL like [https://cepdnaclk.github.io/r/courses/](h
 #### Notes
 
 - Please make sure you are using a **short code** that is not already using.
-- Once you committed (or merged a pull request) it will take 1-2 minutes to be apply.
+- Once you committed (or merged a pull request) it will take 1-2 minutes to be applied.
