@@ -1,8 +1,23 @@
-
-
 defaults:
   -
     scope:
-      path: "README.md"
+      path: "" # an empty string here means all files in the project
     values:
-      permalink: "index.html"
+      layout: "default"
+
+
+# jekyll-readme-index
+# https://github.com/benbalter/jekyll-readme-index
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
+plugins:
+  - jekyll-readme-index
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+  input: GFM
