@@ -30,7 +30,20 @@ forward_url: http://www.ce.pdn.ac.lk/undergraduate-courses
 
 Then you can use the shorten URL like [https://cepdnaclk.github.io/r/courses/](https://cepdnaclk.github.io/r/courses/)
 
-#### Notes
+#### Examples:
+- Academic Calender: https://cepdnaclk.github.io/r/academic-calender
+- ESCaPe2020 Proceedings: https://cepdnaclk.github.io/r/escape2020
 
+#### Notes
 - Please make sure you are using a **short code** that is not already using.
-- Once you committed (or merged a pull request) it will take 1-2 minutes to be applied.
+- Once you committed (or merged a pull request), it will take 1-2 minutes to be available new URL.
+- Changes on a URL may take up to 10mins due to *Page Caching* policy of GitHub.
+
+#### Edit Access
+
+Write access available for the following teams/people, and the changes were done by anyone other than them needed to be accepted (**Merged**) by someone who has the write access.
+
+- Staff-Academic: https://github.com/orgs/cepdnaclk/teams/staff-academic/members
+- Staff-Temp-Academic: https://github.com/orgs/cepdnaclk/teams/staff-temp-academic
+- Admins-cepdnaclk :https://github.com/orgs/cepdnaclk/teams/admins-cepdnaclk-github-io
+
