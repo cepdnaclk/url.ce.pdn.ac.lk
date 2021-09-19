@@ -2,14 +2,36 @@
 <html>
 <head>
     <title>{{ page.title }} </title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css" />
+    <link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
 
     <style media="screen">
-        .language-md{
-            padding: 5px 10px;
-            border: 1px solid gray;
+    .language-md{
+        padding: 0 0 !important;
+        margin: 5px 5px !important;
+        /* border: 1px solid gray; */
+    }
+
+    body{
+        font-size: 12pt;
+        padding: 25px 15px;
+    }
+
+
+    @media (min-width:640px) {
+        /* Desktop devices */
+        body{
+            padding: 25px 15vw;
         }
+    }
     </style>
 </head>
-<body style="padding: 25px 100px;">
+
+<body>
     {{ content }}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <script>
+    hljs.initHighlightingOnLoad();
+    </script>
 </body>

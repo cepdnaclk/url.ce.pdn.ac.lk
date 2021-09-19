@@ -1,7 +1,7 @@
-title: CE Projects - UoP
+title: URL Service
 description: ""
-baseurl: "/r" # the subpath of your site, e.g. /blog
-url: "https://cepdnaclk.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://url.ce.pdn.ac.lk/"
 
 
 defaults:
