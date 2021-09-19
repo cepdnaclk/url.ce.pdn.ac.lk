@@ -44,6 +44,6 @@ Then you can use the shorten URL like [https://url.ce.pdn.ac.lk/academic-calenda
 
 Write access available for the following teams/people, and the changes were done by anyone other than them needed to be accepted (**Merged**) by someone who has the write access.
 
-- Staff-Academic: [https://github.com/orgs/cepdnaclk/teams/staff-academic/members](https://github.com/orgs/cepdnaclk/teams/staff-academic/members)
-- Staff-Temp-Academic: [https://github.com/orgs/cepdnaclk/teams/staff-temp-academic/members](https://github.com/orgs/cepdnaclk/teams/staff-temp-academic/members)
-- Admins-cepdnaclk: [https://github.com/orgs/cepdnaclk/teams/admins-cepdnaclk-github-io/members](https://github.com/orgs/cepdnaclk/teams/admins-cepdnaclk-github-io/members)
+- Staff-Academic: [https://github.com/orgs/cepdnaclk/teams/staff-academic/members](https://github.com/orgs/cepdnaclk/teams/staff-academic/members){:target="_blank"}
+- Staff-Temp-Academic: [https://github.com/orgs/cepdnaclk/teams/staff-temp-academic/members](https://github.com/orgs/cepdnaclk/teams/staff-temp-academic/members){:target="_blank"}
+- Admins-cepdnaclk: [https://github.com/orgs/cepdnaclk/teams/admins-cepdnaclk-github-io/members](https://github.com/orgs/cepdnaclk/teams/admins-cepdnaclk-github-io/members){:target="_blank"}
