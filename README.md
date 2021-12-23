@@ -4,9 +4,23 @@ This repository can be used to generate shorten URLs, with the prefix *https://u
 
 You only need to create a MD file (**name.md**) in the **./urls/** folder by clicking [here](https://github.com/cepdnaclk/url.ce.pdn.ac.lk/new/main/urls){:target="_blank"} and add the following content.
 
+### As a URL redirection:
+Redirect to the provided URL
+
 ```md
 ---
 layout: redirect
+permalink: /short_code/
+forward_url: target_url
+---
+```
+
+### In the same URL:
+No redirection, the page will be loaded within an iframe.
+
+```md
+---
+layout: iframe
 permalink: /short_code/
 forward_url: target_url
 ---

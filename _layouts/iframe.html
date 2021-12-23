@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.permalink }}</title>
+
+    <style>
+        body{
+            padding:0!important;
+            margin:0!important;
+        }
+
+        iframe{
+            margin: 0 auto!important;
+            display: block;
+            border-style:none;
+        }
+    </style>
+</head>
+<body>
+    <iframe style="width:98vw; height:95vh;" class="mx-auto"
+    src="{{ page.forward_url }}"
+    ></iframe>
+</body>
