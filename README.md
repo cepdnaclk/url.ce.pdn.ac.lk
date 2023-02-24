@@ -21,6 +21,7 @@ No redirection, the page will be loaded within an iframe.
 ```md
 ---
 layout: iframe
+title: page-title
 permalink: /short_code/
 forward_url: target_url
 ---
